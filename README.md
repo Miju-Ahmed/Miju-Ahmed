@@ -19,7 +19,7 @@ $$ f_1(\omega)= \frac{\sigma^2}{2\pi} , \omega \in [- \pi , \pi] $$
        - first sub-sub-item
      - second sub-item <br />
 
-![alt text](https://github.com/rakib3903/proffesional_code_writing/blob/master/a.png "Logo Title Text 1")<bbr />
+![alt text](https://github.com/Miju-Ahmed/Miju-Ahmed/blob/main/image.png "Logo Title Text 1")<bbr />
 
 
 
