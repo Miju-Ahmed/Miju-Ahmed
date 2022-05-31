@@ -12,5 +12,8 @@ $$ f_1(\omega) = \frac{\sigma^2}{2\pi},\omega \in [-\pi, \pi] $$
 3. Third item a. second sub item
 4. Fouth item
 
-
-
+- First Item
+- Second item
+  - first sub-item
+    - first sub-sub-item
+ - second sub-item 
