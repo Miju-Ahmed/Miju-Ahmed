@@ -16,4 +16,6 @@ $$ f_1(\omega) = \frac{\sigma^2}{2\pi},\omega \in [-\pi, \pi] $$
 - Second item
   - first sub-item
     - first sub-sub-item
- - second sub-item 
+  - second sub-item 
+
+![alt text](https://github.com/Miju-Ahmed/Miju-Ahmed/blob/main/image.png)
