@@ -1,54 +1,30 @@
-# Assignment 0: Markdown
-## You have to write markdown
-### Some math equation
-$$ First\ equation: Y = X\beta + \epsilon_y, \forall X $$  
+<div align="center">
+  <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"/>
+</div>
 
-$$ Second\ equation: X = Z\gamma + \epsilon_x $$
+---
 
-$$ f_1(\omega) = \frac{\sigma^2}{2\pi},\omega \in [-\pi, \pi] $$
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://twitter.com/Miju__Chowdhury" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="Miju__Chowdhury" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/miju-chowdhury-177861252/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="miju-chowdhury-177861252" height="30" width="40" /></a>
+<a href="https://stackoverflow.com/users/19853167/miju-chowdhury" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="20051416" height="30" width="40" /></a>
+<a href="https://www.facebook.com/miju.ahmed.95" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="miju.ahmed.95" height="30" width="40" /></a>
+<a href="https://www.instagram.com/miju_95/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="miju_95" height="30" width="40" /></a>
+</p>
 
-1. First item a. first sub-item A) first sub-sub -item b.second sub-item
-2. Second item
-3. Third item a. second sub item
-4. Fouth item
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
 
-- First Item
-- Second item
-  - first sub-item
-    - first sub-sub-item
-  - second sub-item 
+---
 
-![alt text](https://github.com/Miju-Ahmed/Miju-Ahmed/blob/main/image.png)
-
-`Library(tidyverse)` <br />
-`library(mdsr)` <br />
-`SAT-2010 %>% ggplot(aes(write,..density..)) + geom_histogram() +` <br />
-`geom_density() + theme_minima() + labs(title = "ASAT Writing Scores")` <br />
+### :fire: My Stats :
+<div display = "center">
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=Miju-Ahmed&show_icons=true&include_all_commits=true&theme=cobalt&hide_border=true" alt="My github stats" />
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Miju-Ahmed&layout=compact&theme=cobalt&hide_border=true" />
+&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;<img align="center" src="https://github-readme-streak-stats.herokuapp.com?user=rakib3903&theme=vue-dark&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" alt="My github stats" />
+</div>  
 
 
-## Table with alignment
 
-You can align text in the columns to left, right, or center by adding a colon(:) to the left,
 
-right, or on both side of the hyphens within the header row.
-
-| Syntax | Description  | Test Text  |
-| ------- | --- | --- |
-| Header | Title | Here's this |
-| Paragraph | Text | And more |
-
-## Instructions
-
-6.S191 software labs are designed to be completed at your own peace. a the end of each of the labs, there will be instructions on how you can submit your notebook for grade. Additionally, if you would lide to submit your lab as part of the 6.S191 lab competitions, instructions regarding what information must be submitted is also provided at the end of each lab.
-
-### License
-
-All code in this repository is copyright 2022 [MIT 6.S191 Introduction to Deep Learning](https://www.introtodeeplearning.com). All Rights Reserved.
-
-Licensed under the MIT License. You may not use this file except in compliance with the
-
-License. Use and/or modification of this code outside of 6.S191 must reference:
-
-© MIT 6.S191: Introduction to Deep Learning
-
-[http://introtodeeplearning.com](https://www.introtodeeplearning.com)
