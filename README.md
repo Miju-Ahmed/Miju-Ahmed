@@ -1,30 +1,61 @@
-<div align="center">
-  <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"/>
-</div>
+<h2 align= "center"> ٱلسَّلَامُ عَلَيْكُمْ</h2>
+  
+ ![waving](https://capsule-render.vercel.app/api?type=waving&height=90&color=gradient)
+ 
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Mouse+Memoirs&size=65&pause=500&color=00F77AFF&vCenter=true&width=600&height=70&lines=I+AM+MIJU+AHMED;A+COMPETATIVE+PROGRAMMER;AND+A+WEB+DEVELOPER)](https://git.io/typing-svg)
 
----
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://twitter.com/Miju__Chowdhury" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="Miju__Chowdhury" height="30" width="40" /></a>
-<a href="https://www.linkedin.com/in/miju-chowdhury-177861252/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="miju-chowdhury-177861252" height="30" width="40" /></a>
-<a href="https://stackoverflow.com/users/19853167/miju-chowdhury" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="20051416" height="30" width="40" /></a>
-<a href="https://www.facebook.com/miju.ahmed.95" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="miju.ahmed.95" height="30" width="40" /></a>
-<a href="https://www.instagram.com/miju_95/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="miju_95" height="30" width="40" /></a>
+<img align='left' height='160' style="margin-left:20px" src='assets/programmer.gif' alt='Skills'>
+
+<br>
+<h2>Skills</h2>
+
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=git,html,css,bootstrap,js,react,ts,androidstudio,bash,linux" />
+  </a>
+</p>
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=c,cpp,python,django,mysql,mongodb,java,wordpress,docker" />
+  </a>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
+<br>
+<br>
 
----
+<img align='right' height='160' style="margin-right:20px" src='assets/zeig-infotech-seo-gif.gif' alt='Social Networks'>
 
-### :fire: My Stats :
-<div display = "center">
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=Miju-Ahmed&show_icons=true&include_all_commits=true&theme=cobalt&hide_border=true" alt="My github stats" />
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Miju-Ahmed&layout=compact&theme=cobalt&hide_border=true" />
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;<img align="center" src="https://github-readme-streak-stats.herokuapp.com?user=Miju-Ahmed&theme=vue-dark&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" alt="My github stats" />
-</div>  
+<br>
+<h2>Social Networks</h2>
+
+[![Twitter][1.2]][1] [![LinkedIn][2.2]][2] [![Instagram][3.2]][3] [![Telegram][4.2]][4]
+
+[1.2]: https://s4.uupload.ir/files/twitter_prkb.png
+[2.2]: https://s4.uupload.ir/files/linkedin_amwn.png
+[3.2]: https://s4.uupload.ir/files/instagram_6djz.png
+[4.2]: https://s4.uupload.ir/files/telegram_q47u.png
+
+[1]: https://twitter.com/ASHIKUR11111
+[2]: https://www.linkedin.com/in/ashikurrahman7/
+[3]: https://www.instagram.com/ashikurrahmanbhuiyan/
+[4]: https://t.me/ashikurrahman7
+
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&height=90&section=footer"/>
+  
+  
+  
+  
+  
+  
+  
+  ### Github Stats
+
+  <div align="center">
+  <img height="150px" src="https://github-readme-stats.vercel.app/api?username=Miju-Ahmed&show_icons=true&theme=highcontrast" />
+  <img height="150px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Miju-Ahmed&hide=html&layout=compact&theme=highcontrast" />
+ </div>
+ 
 
 
-
-
+ ![Profile views](https://gpvc.arturio.dev/ashikurrahmanbhuiyan)
