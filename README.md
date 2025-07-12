@@ -36,10 +36,10 @@
 [3.2]: https://s4.uupload.ir/files/instagram_6djz.png
 [4.2]: https://s4.uupload.ir/files/telegram_q47u.png
 
-[1]: https://twitter.com/ASHIKUR11111
-[2]: https://www.linkedin.com/in/ashikurrahman7/
-[3]: https://www.instagram.com/ashikurrahmanbhuiyan/
-[4]: https://t.me/ashikurrahman7
+[1]: https://twitter.com/mijuahmed
+[2]: https://www.linkedin.com/in/miju-chowdhury/
+[3]: https://www.instagram.com/___miju___/
+[4]: https://t.me/mijuahmed
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&height=90&section=footer"/>
   
@@ -58,4 +58,4 @@
  
 
 
- ![Profile views](https://gpvc.arturio.dev/ashikurrahmanbhuiyan)
+ ![Profile views](https://gpvc.arturio.dev/mijuahmed)
